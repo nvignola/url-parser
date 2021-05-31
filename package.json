@@ -33,7 +33,7 @@
     "eslint-plugin-import": "^2.23.3",
     "html-webpack-plugin": "^4.5.0",
     "jest": "^26.6.3",
-    "jsdom": "^16.4.0",
+    "jsdom": "^16.6.0",
     "jsdom-mount": "^0.1.0",
     "mini-css-extract-plugin": "^1.6.0",
     "svg-inline-loader": "^0.8.2",
